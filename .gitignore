@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Data & models
+data/
+*.pt
+samples/
+*.png
+
+# OS
+.DS_Store
